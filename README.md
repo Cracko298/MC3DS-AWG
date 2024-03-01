@@ -1,7 +1,7 @@
 # MC3DS-AWG
 - Mod for Minecraft 3DS that Creates an Amplified World for Players to Explore. 
 - Randomly Generated, and **should** be infinitely re-playable (probably).
-- Based on the 'index.cdb' exploit found by [@Cracko298](https://github.com/Cracko298) and [@YT-Toaster](https://github.com/YT-Toaster)
+- Based on the 'index.cdb' exploit found by [@Cracko298](https://github.com/Cracko298) and [@YT-Toaster](https://github.com/YT-Toaster).
 
 ## Features:
 - Wewelsburg Castle Structures by [@ThorMode9]() are randomly generated.
