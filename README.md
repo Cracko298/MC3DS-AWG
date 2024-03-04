@@ -5,6 +5,7 @@
 
 ## Features:
 - Wewelsburg Castle Structures by [@ThorMode9]() are randomly generated.
+- Custom Panorama Created By: [@STBrian](https://github.com/STBrian).
 - Some cave generation has been fixed/added.
 - New Amplified World Generation (Somewhat based on Bedrock Gen).
 - New Structures Include: Wewelsburg, Water Pillars, Water Walls, Caverns ***depends on seed***.
