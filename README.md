@@ -1,10 +1,10 @@
+### NOTE: THIS MOD IS NOT CALLED <ins>MC3DS Festive World Override</ins>!!!
+- **This mod just uses the Exploit (Festive World Override) to Load Custom Worlds from the SD Card, making it easier to Install it.**
+
 # MC3DS-AWG
 - Mod for Minecraft 3DS that Creates an Amplified World for Players to Explore. 
 - Randomly Generated, and **should** be infinitely re-playable (probably).
 - Based on the 'index.cdb' exploit found by [@Cracko298](https://github.com/Cracko298) and [@YT-Toaster](https://github.com/YT-Toaster).
-
-### NOTE: THIS MOD IS NOT CALLED <ins>MC3DS Festive World Override</ins>!!!
-- **This mod just uses the Exploit (Festive World Override) to Load Custom Worlds from the SD Card, making it easier to Install it.**
 
 ## Features:
 - Wewelsburg Castle Structures by [@ThorMode9]() are randomly generated.
@@ -14,6 +14,10 @@
 - New Structures Include: Wewelsburg, Water Pillars, Water Walls, Caverns ***depends on seed***.
 - Natural Mob Generation.
 - Random Structure Generation based on Seed.
+
+## Download(s):
+- You can either <ins>Download</ins> Directly [Here](https://github.com/Cracko298/MC3DS-AWG/releases/download/v1.1.4/Amplified_Worlds_v114.zip).
+- Or you can <ins>Download</ins> via the [Minecraft3DS UniStore](https://github.com/Minecraft-3DS-Community/minecraft-3ds-unistore).
 
 ## Image Gallery:
 ![2018-07-29_13-20-13 951_top](https://github.com/Cracko298/MC3DS-AWG/assets/78656905/ba0b89f5-70c5-48c7-b9f0-8ed3293587de)
