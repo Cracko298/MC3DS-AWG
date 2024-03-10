@@ -3,6 +3,9 @@
 - Randomly Generated, and **should** be infinitely re-playable (probably).
 - Based on the 'index.cdb' exploit found by [@Cracko298](https://github.com/Cracko298) and [@YT-Toaster](https://github.com/YT-Toaster).
 
+### NOTE: THIS MOD IS NOT CALLED <ins>MC3DS Festive World Override</ins>!!!
+- **This mod just uses the Exploit (Festive World Override) to Load Custom Worlds from the SD Card, making it easier to Install it.**
+
 ## Features:
 - Wewelsburg Castle Structures by [@ThorMode9]() are randomly generated.
 - Custom Panorama Created By: [@STBrian](https://github.com/STBrian).
