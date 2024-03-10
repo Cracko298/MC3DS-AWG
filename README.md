@@ -1,4 +1,4 @@
-### NOTE: THIS MOD IS NOT CALLED <ins>[Festive World Override](https://github.com/Cracko298/MC3DS-World-Injection)!!!</ins>
+### NOTE: ***THIS MOD IS NOT CALLED: "[Festive World Override](https://github.com/Cracko298/MC3DS-World-Injection)"!!!
 - **This mod just uses the Exploit (Festive World Override) to Load Custom Worlds from the SD Card, making it easier to Install it.**
 
 # MC3DS-AWG
