@@ -32,3 +32,5 @@
 ![2018-07-29_13-20-01 885_top](https://github.com/Cracko298/MC3DS-AWG/assets/78656905/cb134496-9cd7-490c-ae78-a925475151c1)
 ![2018-07-29_13-17-00 650_top](https://github.com/Cracko298/MC3DS-AWG/assets/78656905/b555b188-83b8-4fd0-9f32-03430b131d96)
 ![2018-07-29_13-17-34 494_top](https://github.com/Cracko298/MC3DS-AWG/assets/78656905/e4bb8f95-3598-4796-b30b-7c622ffca6ab)
+![New_Images](https://github.com/Cracko298/MC3DS-AWG/assets/78656905/c4d158c6-7624-4b60-bae6-b0801d1dd6a7)
+![Newerer_Images](https://github.com/Cracko298/MC3DS-AWG/assets/78656905/1c569674-5efd-4f66-b754-de35c4c4d91d)
